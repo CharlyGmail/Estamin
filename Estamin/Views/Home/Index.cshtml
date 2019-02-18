@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section mainStyles
+{
+    @Styles.Render("~/Assets/css/all.min.css")
+    @Styles.Render("~/Assets/css/index.css")
+}
+
+@* Subtitulo *@
+<span class="subtitle">Estado Mensual de Declaraciones (Setiembre - 2019)</span>
+
+@* ------------------------------------------------------------------------------------- Navegador Lateral ------------------------------------------------------------------------------------- *@
+<ul class="list-inline d-flex">
+    <li class="list-inline-item">
+        <div class="list-group sidebar" id="sidebar-tab" role="tablist">
+            <a class="list-group-item list-group-item-action" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Índice</a>
+            <a class="list-group-item list-group-item-action" id="list-indInfo-list" data-toggle="list" href="#list-indInfo" role="tab" aria-controls="indInfo"><i class="fas fa-caret-right"></i>Información del Titular</a>
+            <div class="list-group" id="info-tab" role="tablist">
+                <a class="list-group-item list-group-item-action" id="list-info1-list" data-toggle="list" href="#list-info1" role="tab" aria-controls="info1">Identificación y Ubicación del Titular</a>
+                <a class="list-group-item list-group-item-action" id="list-info2-list" data-toggle="list" href="#list-info2" role="tab" aria-controls="info2">Identificación de Conceciones y/o UEAS del Titular</a>
+                <a class="list-group-item list-group-item-action" id="list-info3-list" data-toggle="list" href="#list-info3" role="tab" aria-controls="info3">Información de hechos de importancia, anuncios y asuntos que expliquen la estadística reportada y/o afecten el desempeño de la empresa</a>
+                <a class="list-group-item list-group-item-action" id="list-info4-list" data-toggle="list" href="#list-info4" role="tab" aria-controls="info4">Ubicación Unidad Explotación</a>
+            </div>
+            <a class="list-group-item list-group-item-action" id="list-ProdListConcesiones-list" data-toggle="list" href="#list-ProdListConcesiones" role="tab" aria-controls="ProdListConcesiones"><i class="fas fa-caret-right"></i>Anexo I: Producción</a>
+            <div class="list-group" id="prod-tab" role="tablist">
+                <a class="list-group-item list-group-item-action" id="list-ProdDetalleConcesion-list" data-toggle="list" href="#list-ProdDetalleConcesion" role="tab" aria-controls="ProdDetalleConcesion">1. Andean 25-07</a>
+                <a class="list-group-item list-group-item-action" id="list-ProdDetalleConcesion-list" data-toggle="list" href="#list-ProdDetalleConcesion" role="tab" aria-controls="ProdDetalleConcesion">2. China Linda</a>
+                <a class="list-group-item list-group-item-action" id="list-ProdDetalleConcesion-list" data-toggle="list" href="#list-ProdDetalleConcesion" role="tab" aria-controls="ProdDetalleConcesion">3. Uchucchacua</a>
+                <a class="list-group-item list-group-item-action" id="list-ProdDetalleConcesion-list" data-toggle="list" href="#list-ProdDetalleConcesion" role="tab" aria-controls="ProdDetalleConcesion">4. Uchucchacua2</a>
+                <a class="list-group-item list-group-item-action" id="list-ProdDetalleConcesion-list" data-toggle="list" href="#list-ProdDetalleConcesion" role="tab" aria-controls="ProdDetalleConcesion">5. El Sol N°3</a>
+            </div>
+            <a class="list-group-item list-group-item-action" id="list-seguConcesiones-list" data-toggle="list" href="#list-seguConcesiones" role="tab" aria-controls="messages"><i class="fas fa-caret-right"></i>Anexo II: Seguridad</a>
+            <div class="list-group" id="segu-tab" role="tablist">
+                <a class="list-group-item list-group-item-action" id="list-SeguDetalleConcesion-list" data-toggle="list" href="#list-SeguDetalleConcesion" role="tab" aria-controls="SeguDetalleConcesion">1. Andean 25-07</a>
+                <a class="list-group-item list-group-item-action" id="list-SeguDetalleConcesion-list" data-toggle="list" href="#list-SeguDetalleConcesion" role="tab" aria-controls="SeguDetalleConcesion">2. China Linda</a>
+                <a class="list-group-item list-group-item-action" id="list-SeguDetalleConcesion-list" data-toggle="list" href="#list-SeguDetalleConcesion" role="tab" aria-controls="SeguDetalleConcesion">3. Uchucchacua</a>
+                <a class="list-group-item list-group-item-action" id="list-SeguDetalleConcesion-list" data-toggle="list" href="#list-SeguDetalleConcesion" role="tab" aria-controls="SeguDetalleConcesion">4. Uchucchacua2</a>
+                <a class="list-group-item list-group-item-action" id="list-SeguDetalleConcesion-list" data-toggle="list" href="#list-SeguDetalleConcesion" role="tab" aria-controls="SeguDetalleConcesion">5. El Sol N°3</a>
+            </div>
+            <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings"><i class="fas fa-caret-right"></i>Anexo III: Indicadores de Desempeño</a>
+            <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings"><i class="fas fa-caret-right"></i>Anexo IV: Cumplimiento Mensual</a>
+            <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings"><i class="fas fa-caret-right"></i>Anexo V: Programa de Inversiones</a>
+        </div>
+    </li>
+@* ------------------------------------------------------------------------------------ Fin Navegador Lateral ------------------------------------------------------------------------------------ *@
+
+    @* Flecha para Esconder el Navegador Lateral *@
+    <li class="list-inline-item">
+        <i class="fas fa-angle-left"></i>
+    </li>
+    @* ------------------------------------------------ *@
+
+@* ---------------------------------------------------------------------------------------- Navegador Superior ---------------------------------------------------------------------------------------- *@
+    <li class="list-inline-item">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                @* <a class="nav-item nav-link" id="nav-DetalleConcesion-tab" data-toggle="tab" href="#list-DetalleConcesion" role="tab" aria-controls="nav-IndProd" aria-selected="true">123 - El Sol N°3</a><i class="fas fa-angle-right"></i>
+                <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Producción Carbonífera</a><i class="fas fa-angle-right"></i>
+                <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Producción Obtenida</a> *@
+            </div>
+        </nav>
+@* -------------------------------------------------------------------------------------- Fin Navegador Superior -------------------------------------------------------------------------------------- *@
+
+@* ------------------------------------------------------------------------------------------- Contenido ------------------------------------------------------------------------------------------- *@
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane" id="list-home" role="tabpanel" aria-labelledby="list-home-list">@Html.Partial("~/Views/Home/_IndexLayout.cshtml")</div>
+            @Html.Partial("~/Views/Home/Produccion/ListaConcesiones.cshtml")
+            @Html.Partial("~/Views/Home/Informacion/Index.cshtml")
+            @Html.Partial("~/Views/Home/Seguridad/ListaConcesiones.cshtml")
+        </div>
+@* ------------------------------------------------------------------------------------------ Fin Contenido ------------------------------------------------------------------------------------------ *@
+    </li>
+</ul>
+
+@* MODAL *@
+<div class="modal" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="infoModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="infoModalLabel">172.25.0.209:8080 dice</h5>
+        <button id="cerrarbtn" type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Debe completar esta sección con almenos un registro. ¿Aún desea continuar?</p>
+      </div>
+      <div class="modal-footer">
+        <button id="aceptarbtn" type="button" class="btn btn-secondary" data-dismiss="modal">Aceptar</button>
+        <button id="cancelarbtn" type="button" class="btn btn-primary">Cancelar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+@section mainScripts
+{
+    @Scripts.Render("~/Scripts/index.js")
+}

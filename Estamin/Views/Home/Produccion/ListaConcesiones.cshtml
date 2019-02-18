@@ -1,0 +1,68 @@
+﻿<div class="tab-pane" id="list-ProdListConcesiones" role="tabpanel" aria-labelledby="list-ProdListConcesiones-list">
+    ﻿<div class="content">
+        <table class="listaConcesionesTable table">
+            <thead>
+                <tr>
+                    <th scope="col">Código</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Tipo</th>
+                    <th scope="col">Sutancia</th>
+                    <th scope="col">Sutancia</th>
+                    <th scope="col">Estado</th>
+                    <th scope="col" align="center">Fecha de Actualización</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                  <td>456</td>
+                  <td>1. Andean 25-07</td>
+                  <td>Concesión (D.LEG. 708)</td>
+                  <td>Metálica</td>
+                  <td>Explotación</td>
+                  <td align="center"><img src="@Url.Content("~")Assets/images/exclamation.jpg"/><br>Incompleto</td>
+                  <td align="center">08/01/2019</td>
+                </tr>
+                <tr>
+                  <td>456</td>
+                  <td>2. China Linda</td>
+                  <td>Unidad Económica Administrativa</td>
+                  <td>No Metálica</td>
+                  <td>Explotación</td>
+                  <td align="center"><img src="@Url.Content("~")Assets/images/circle.jpg"/><br>Sin Datos</td>
+                  <td align="center">08/01/2019</td>
+                </tr>
+                <tr>
+                  <td>456</td>
+                  <td>3. Uchucchacua</td>
+                  <td>Unidad Económica Administrativa</td>
+                  <td>Metálica</td>
+                  <td>Explotación</td>
+                  <td align="center"><img src="@Url.Content("~")Assets/images/exclamation.jpg"/><br>Incompleto</td>
+                  <td align="center">08/01/2019</td>
+                </tr>
+                <tr>
+                  <td>456</td>
+                  <td>4. Uchucchacua2</td>
+                  <td>Unidad Económica Administrativa</td>
+                  <td>Metálica</td>
+                  <td>Explotación</td>
+                  <td align="center"><img src="@Url.Content("~")Assets/images/exclamation.jpg"/><br>Incompleto</td>
+                  <td align="center">08/01/2019</td>
+                </tr>
+                <tr>
+                  <td>456</td>
+                  <td>5. El Sol N°3</td>
+                  <td>Concesión (D.LEG. 109 y anteriores)</td>
+                  <td>No Metálica</td>
+                  <td>Explotación</td>
+                  <td align="center"><i class="fas fa-check"></i><br>Completo</td>
+                  <td align="center">08/01/2019</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+@Html.Partial("~/Views/Home/Produccion/DetalleConcesion.cshtml")
+@Html.Partial("~/Views/Home/Produccion/Carbonifera/Partials.cshtml")
+@Html.Partial("~/Views/Home/Produccion/MineriaMetalica/Partials.cshtml")
+@Html.Partial("~/Views/Home/Produccion/MineriaNoMetalica/Partials.cshtml")

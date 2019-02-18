@@ -1,0 +1,124 @@
+﻿<div class="tab-pane" id="list-MetaExtrObtForm" role="tabpanel" aria-labelledby="list-CarbProdDestForm-list">
+    <div class="topContent">
+        <div class="warning d-flex align-items-center">
+            <img src="@Url.Content("~")Assets/images/exclamation.jpg"/>
+            <ul class="yellowBullet">
+                <li>Indique los distritos de los que ha obtenido el recurso extraído.</li>
+                <li>La cantidad por producto puede ser mayor solamente si se tenía una cantidad en stock del periodo anterior</li>
+            </ul>
+        </div>
+    </div>
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-6">
+                <table class="contentTableLeft table">
+                    <tbody>
+                        <tr>
+                            <th>Distrito</th>
+                            <td>
+                                <div class="btn-group dropright">
+                                    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        ---------------
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <!-- Dropdown menu links -->
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Procedencia</th>
+                            <td>
+                                <div class="btn-group dropright">
+                                    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        ---------------
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <!-- Dropdown menu links -->
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>RUC</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Recursos Extraídos</th>
+                            <td>
+                                <div class="btn-group dropright">
+                                    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        -----------
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <!-- Dropdown menu links -->
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Cantidad (TM)</th>
+                            <td><input class="textInput" type="text" name="cantidad" value=""></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-sm-6">
+                <table class="contentTableRight table">
+                    <thead>
+                        <tr>
+                            <th>Mes</th>
+                            <th>Cantidad (TM)</th>
+                            <th>Valor (US$)</th>
+                        </tr>
+                    </thead>
+                    <tr>
+                        <td>Agosto</td>
+                        <td>3000</td>
+                        <td>3000</td>
+                    </tr>
+                    <tr>
+                        <td>Julio</td>
+                        <td>3000</td>
+                        <td>3000</td>
+                    </tr>
+                    <tr>
+                        <td>Junio</td>
+                        <td>3000</td>
+                        <td>3000</td>
+                    </tr>
+                    <tr>
+                        <td>Mayo</td>
+                        <td>3000</td>
+                        <td>3000</td>
+                    </tr>
+                    <tr>
+                        <td>Abril</td>
+                        <td>3000</td>
+                        <td>3000</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <table class="tableMetales table">
+            <thead>
+                <tr>
+                    <th colspan="5">Leyes de Recursos Extraído</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>% Agua <input class="" type="text" name="Agua" value=""> </td>
+                    <td>% Azufre <input class="" type="text" name="Azufre" value=""> </td>
+                    <td>% Ceniza <input class="" type="text" name="Ceniza" value=""> </td>
+                    <td>% Material Volátil <input class="" type="text" name="Material Volatil" value=""> </td>
+                    <td>% Potasio <input class="" type="text" name="Potasio" value=""> </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="bottomContent">
+        <button type="button" class="btn" name="button">Grabar</button>
+        <button type="button" class="btn" name="button">Regresar sin grabar</button>
+    </div>
+</div>

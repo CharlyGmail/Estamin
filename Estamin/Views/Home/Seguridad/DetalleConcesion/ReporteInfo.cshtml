@@ -1,0 +1,80 @@
+﻿<div class="tab-pane" id="list-SeguRepInfo" role="tabpanel" aria-labelledby="list-SeguRepInfo-list">
+    <div class="topContent">
+        <div class="warning">
+            <img src="@Url.Content("~")Assets/images/exclamation.jpg" />
+            <ul class="yellowBullet">
+                <li>Indique los distritos de los que ha obtenido el RECURSO EXTRAÍDO antidad por producto puede ser mayor solamente si se tenía una cantidad en stock del periodo anterior.</li>
+                <li>La cantidad por producto puede ser mayor solamente si se tenía una cantidad en stock del periodo anterior</li>
+            </ul>
+        </div>
+        <button id="SeguRepInfo" type="button" class="btn btn-primary" data-toggle="modal" data-target="#infoModal">Agregar</button>
+    </div>﻿
+    <div class="content">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nombre de la CIA, Contratista Minero o Conexa</th>
+                    <th>Código Asignado al Trabajador</th>
+                    <th>Edad</th>
+                    <th>Sexo</th>
+                    <th>Ocupaciones</th>
+                    <th>Años de Trabajo en Minería</th>
+                    <th>Agente Causal</th>
+                    <th>Agente Causante</th>
+                    <th>CIE 10</th>
+                    <th>Médico</th>
+                    <th>CMP</th>
+                    <th>Institución Calific.</th>
+                    <th>Actividad Minera<br />(Art. 2 Reglamento)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th>¿Existen cambios de esta declaración respecto al mes anterior?</th>
+                    <td class="d-flex justify-content-around"><div><input type="radio" name="si" value="" />Si</div><div><input type="radio" name="no" value="" />No</div></td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th colspan="3">Motivo de Cambio de Enfermedades Ocupacionales para el presente mes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1. Nueva Enfermedad Detectada <input type="checkbox" name="nuevaEnfermedad" value="" /></td>
+                    <td>2. Enfermedad Superada <input type="checkbox" name="enfermedadSuperada" value="" /></td>
+                    <td>3. Retiro del Personal <input type="checkbox" name="retiro" value="" /></td>
+                </tr>
+                <tr>
+                    <td>4. Muerte <input type="checkbox" name="muerte" value="" /></td>
+                    <td>5. Actualización de Data Ingresada <input type="checkbox" name="actualizacion" value="" /></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="bottomContent">
+        <button type="button" class="btn" name="button">Regresar</button>
+    </div>
+</div>﻿

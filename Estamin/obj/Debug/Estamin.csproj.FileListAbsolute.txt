@@ -1,0 +1,404 @@
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\ApplicationInsights.config
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\csc.exe
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\vbc.exe
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Estamin.dll.config
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Estamin.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Estamin.pdb
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Antlr3.Runtime.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\EntityFramework.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\EntityFramework.SqlServer.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.Web.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.ApplicationInsights.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Newtonsoft.Json.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Owin.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Helpers.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Mvc.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Optimization.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Razor.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.WebPages.Deployment.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.WebPages.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.WebPages.Razor.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\WebGrease.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.Web.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.ApplicationInsights.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Helpers.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Mvc.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Optimization.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.Razor.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.WebPages.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.WebPages.Deployment.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\System.Web.WebPages.Razor.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Antlr3.Runtime.pdb
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Newtonsoft.Json.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\EntityFramework.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\EntityFramework.SqlServer.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\System.Web.Helpers.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\System.Web.Mvc.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\System.Web.Optimization.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\System.Web.Razor.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\System.Web.WebPages.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\EntityFramework.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.Owin.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\obj\Debug\Estamin.csprojResolveAssemblyReference.cache
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\obj\Debug\Estamin.dll
+c:\users\joperez\documents\visual studio 2015\Projects\Estamin\Estamin\obj\Debug\Estamin.pdb
+D:\Proyectos\Estamin\Estamin\bin\ApplicationInsights.config
+D:\Proyectos\Estamin\Estamin\bin\roslyn\csc.exe
+D:\Proyectos\Estamin\Estamin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\Estamin\Estamin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\Estamin\Estamin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\Estamin\Estamin\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\Estamin\Estamin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\Estamin\Estamin\bin\roslyn\vbc.exe
+D:\Proyectos\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\Estamin\Estamin\bin\Estamin.dll.config
+D:\Proyectos\Estamin\Estamin\bin\Estamin.dll
+D:\Proyectos\Estamin\Estamin\bin\Estamin.pdb
+D:\Proyectos\Estamin\Estamin\bin\Antlr3.Runtime.dll
+D:\Proyectos\Estamin\Estamin\bin\EntityFramework.dll
+D:\Proyectos\Estamin\Estamin\bin\EntityFramework.SqlServer.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.Web.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.ApplicationInsights.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\Estamin\Estamin\bin\Newtonsoft.Json.dll
+D:\Proyectos\Estamin\Estamin\bin\Owin.dll
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Helpers.dll
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Mvc.dll
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Optimization.dll
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Razor.dll
+D:\Proyectos\Estamin\Estamin\bin\System.Web.WebPages.Deployment.dll
+D:\Proyectos\Estamin\Estamin\bin\System.Web.WebPages.dll
+D:\Proyectos\Estamin\Estamin\bin\System.Web.WebPages.Razor.dll
+D:\Proyectos\Estamin\Estamin\bin\WebGrease.dll
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.Web.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.ApplicationInsights.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Helpers.xml
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Mvc.xml
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Optimization.xml
+D:\Proyectos\Estamin\Estamin\bin\System.Web.Razor.xml
+D:\Proyectos\Estamin\Estamin\bin\System.Web.WebPages.xml
+D:\Proyectos\Estamin\Estamin\bin\System.Web.WebPages.Deployment.xml
+D:\Proyectos\Estamin\Estamin\bin\System.Web.WebPages.Razor.xml
+D:\Proyectos\Estamin\Estamin\bin\Antlr3.Runtime.pdb
+D:\Proyectos\Estamin\Estamin\bin\Newtonsoft.Json.xml
+D:\Proyectos\Estamin\Estamin\bin\EntityFramework.xml
+D:\Proyectos\Estamin\Estamin\bin\EntityFramework.SqlServer.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Proyectos\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Proyectos\Estamin\Estamin\bin\es\System.Web.Helpers.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\System.Web.Optimization.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\System.Web.WebPages.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\EntityFramework.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.Owin.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Proyectos\Estamin\Estamin\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Proyectos\Estamin\Estamin\obj\Debug\Estamin.csprojResolveAssemblyReference.cache
+D:\Proyectos\Estamin\Estamin\obj\Debug\Estamin.dll
+D:\Proyectos\Estamin\Estamin\obj\Debug\Estamin.pdb
+D:\Estamin\Estamin\bin\ApplicationInsights.config
+D:\Estamin\Estamin\bin\roslyn\csc.exe
+D:\Estamin\Estamin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Estamin\Estamin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Estamin\Estamin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Estamin\Estamin\bin\roslyn\System.Collections.Immutable.dll
+D:\Estamin\Estamin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Estamin\Estamin\bin\roslyn\vbc.exe
+D:\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe
+D:\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe.config
+D:\Estamin\Estamin\bin\Estamin.dll.config
+D:\Estamin\Estamin\bin\Estamin.dll
+D:\Estamin\Estamin\bin\Estamin.pdb
+D:\Estamin\Estamin\bin\Antlr3.Runtime.dll
+D:\Estamin\Estamin\bin\EntityFramework.dll
+D:\Estamin\Estamin\bin\EntityFramework.SqlServer.dll
+D:\Estamin\Estamin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Estamin\Estamin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Estamin\Estamin\bin\Microsoft.AI.Web.dll
+D:\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.dll
+D:\Estamin\Estamin\bin\Microsoft.ApplicationInsights.dll
+D:\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Estamin\Estamin\bin\Microsoft.Web.Infrastructure.dll
+D:\Estamin\Estamin\bin\Newtonsoft.Json.dll
+D:\Estamin\Estamin\bin\Owin.dll
+D:\Estamin\Estamin\bin\System.Web.Helpers.dll
+D:\Estamin\Estamin\bin\System.Web.Mvc.dll
+D:\Estamin\Estamin\bin\System.Web.Optimization.dll
+D:\Estamin\Estamin\bin\System.Web.Razor.dll
+D:\Estamin\Estamin\bin\System.Web.WebPages.Deployment.dll
+D:\Estamin\Estamin\bin\System.Web.WebPages.dll
+D:\Estamin\Estamin\bin\System.Web.WebPages.Razor.dll
+D:\Estamin\Estamin\bin\WebGrease.dll
+D:\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Estamin\Estamin\bin\Microsoft.AI.Web.xml
+D:\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.xml
+D:\Estamin\Estamin\bin\Microsoft.ApplicationInsights.xml
+D:\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Estamin\Estamin\bin\System.Web.Helpers.xml
+D:\Estamin\Estamin\bin\System.Web.Mvc.xml
+D:\Estamin\Estamin\bin\System.Web.Optimization.xml
+D:\Estamin\Estamin\bin\System.Web.Razor.xml
+D:\Estamin\Estamin\bin\System.Web.WebPages.xml
+D:\Estamin\Estamin\bin\System.Web.WebPages.Deployment.xml
+D:\Estamin\Estamin\bin\System.Web.WebPages.Razor.xml
+D:\Estamin\Estamin\bin\Antlr3.Runtime.pdb
+D:\Estamin\Estamin\bin\Newtonsoft.Json.xml
+D:\Estamin\Estamin\bin\EntityFramework.xml
+D:\Estamin\Estamin\bin\EntityFramework.SqlServer.xml
+D:\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Estamin\Estamin\bin\es\System.Web.Helpers.resources.dll
+D:\Estamin\Estamin\bin\es\System.Web.Mvc.resources.dll
+D:\Estamin\Estamin\bin\es\System.Web.Optimization.resources.dll
+D:\Estamin\Estamin\bin\es\System.Web.Razor.resources.dll
+D:\Estamin\Estamin\bin\es\System.Web.WebPages.resources.dll
+D:\Estamin\Estamin\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Estamin\Estamin\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Estamin\Estamin\bin\es\EntityFramework.resources.dll
+D:\Estamin\Estamin\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.Owin.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Estamin\Estamin\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Estamin\Estamin\obj\Debug\Estamin.dll
+D:\Estamin\Estamin\obj\Debug\Estamin.pdb
+D:\Estamin\Estamin\obj\Debug\Estamin.csprojResolveAssemblyReference.cache
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\ApplicationInsights.config
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\csc.exe
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\vbc.exe
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Estamin.dll.config
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Estamin.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Estamin.pdb
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Antlr3.Runtime.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\EntityFramework.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\EntityFramework.SqlServer.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.Web.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Newtonsoft.Json.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Owin.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Helpers.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Mvc.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Optimization.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Razor.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.WebPages.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\WebGrease.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.Web.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Helpers.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Mvc.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Optimization.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.Razor.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.WebPages.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Antlr3.Runtime.pdb
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Newtonsoft.Json.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\EntityFramework.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\EntityFramework.SqlServer.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\EntityFramework.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\obj\Debug\Estamin.csprojResolveAssemblyReference.cache
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\obj\Debug\Estamin.dll
+C:\Users\Invitado\Documents\Visual Studio 2015\Projects\ESTAMIN_VERSIONES\Estamin\Estamin\obj\Debug\Estamin.pdb

@@ -1,0 +1,105 @@
+﻿/* Override the default bootstrap behavior where horizontal description lists
+   will truncate terms that are too long to fit in the left column
+*/
+
+/* Font styles */
+@font-face {
+  font-family: 'roboto';
+  src: url('../../fonts/ROBOTO-REGULAR.TTF') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url('../../fonts/ROBOTO-BOLD_0.TTF') format('truetype');
+  font-weight: bold;
+}
+/* -------------- */
+
+html {
+    font-size: 62.5%;
+    height: 100%;
+}
+
+body {
+    font-size: 1.6rem;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    overflow-x: hidden;
+}
+
+.navbar-text > p {
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+.navbar-text > p:last-child {
+    color: #00C1A6;
+}
+
+.footer p{
+    height: 50px;
+    background-color: #C2C2C2;
+    margin: 0;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Bootstrap override */
+
+.container-fluid {
+    padding: 0px;
+    background-color: #F6F7F9;
+    flex: 3 0 auto;
+}
+
+.table {
+  margin-bottom: 3rem;
+}
+
+.btn {
+    font-size: 1.6rem;
+    background-color: #37657D;
+    border: 1px solid #37657D;
+    border-radius: 1rem;
+    color: white;
+}
+
+.btn-lg {
+    width: 90%;
+}
+
+.btn:hover {
+    opacity: 0.9;
+    color: white;
+}
+
+.dropdown-menu {
+    font-size: 1.6rem;
+}
+
+.table thead th {
+    vertical-align: middle;
+    border-top: 2px solid #dee2e6;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.navbar {
+    justify-content: space-evenly;
+    flex: 0 0 auto;
+    border-bottom: 1px solid #00AEE3;
+    padding: 0;
+}

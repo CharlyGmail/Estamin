@@ -1,0 +1,48 @@
+﻿<div class="tab-pane" id="list-indInfo" role="tabpanel" aria-labelledby="list-IndInfo-list">
+    <div class="content">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Índice</th>
+                    <th style="text-align: center" scope="col">Estado</th>
+                    <th scope="col">Observaciones</th>
+                    <th scope="col">Última Actua.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Identificación y Ubicación del Titular</td>
+                    <td><i class="fas fa-check"></i></td>
+                    <td></td>
+                    <td>08/01/2019</td>
+                </tr>
+                <tr>
+                    <td>Identificación de Conceciones y/o UEAS del Titular</td>
+                    <td><img src="@Url.Content("~")Assets/images/exclamation.jpg"/></td>
+                    <td>Pendiente de subsanación</td>
+                    <td>08/01/2019</td>
+                </tr>
+                <tr>
+                    <td>Información de hechos de importancia, anuncios y asuntos que expliquen la estadística reportada y/o afecten el desempeño de la empresa</td>
+                    <td><img src="@Url.Content("~")Assets/images/exclamation.jpg"/></td>
+                    <td>Falta completar datos en el submenú</td>
+                    <td>08/01/2019</td>
+                </tr>
+                <tr>
+                    <td>Ubicación Unidad Explotación</td>
+                    <td><img src="@Url.Content("~")Assets/images/exclamation.jpg"/></td>
+                    <td>Falta completar datos en el submenú</td>
+                    <td>08/01/2019</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="bottomContent">
+        <button class="btn" type="button" name="button">Imprimir reporte preliminar</button>
+        <button class="btn" type="button" name="button">Enviar al ministerio</button>
+    </div>
+</div>
+@Html.Partial("~/Views/Home/Informacion/IdentificacionTitular.cshtml")
+@Html.Partial("~/Views/Home/Informacion/IdentificacionConcesiones.cshtml")
+@Html.Partial("~/Views/Home/Informacion/Informacion.cshtml")
+@Html.Partial("~/Views/Home/Informacion/Ubicacion.cshtml")

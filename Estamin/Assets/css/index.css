@@ -1,0 +1,485 @@
+/* Subtitulo */
+.subtitle {
+  display: inline-block;
+  margin: 2% 0;
+  font-size: 1.92rem;
+  font-weight: bold;
+  border: 1px solid white;
+  border-left: 1px solid #00C0C1;
+  border-left-width: 5px;
+  margin-left: 1%;
+  border-radius: 3px;
+  padding-left: 0.6rem;
+  color: #00C0C1;
+}
+
+/* Identificacion titular */
+.subtitle2 {
+    color: #4A5E69;
+    font-weight: bold;
+}
+/* --------- */
+
+/* Navegador Lateral */
+ul.list-inline > li:first-child {
+    max-width: 25%;
+    min-width: 25%;
+    margin-left: 1%;
+    margin-right: 0;
+}
+
+ul.list-inline > li:nth-child(3) {
+    overflow-x: hidden;
+    flex: 1 1 auto;
+}
+
+#nav-tabContent {
+    overflow-x: hidden;
+}
+
+#nav-tabContent > .active.show {
+    overflow-x: hidden;
+}
+
+#nav-tabContent .content {
+    overflow-x: auto;
+}
+
+#sidebar-tab > a > i {
+    margin-right: 4%;
+}
+
+#sidebar-tab {
+  color: white;
+  border-radius: 1.6rem;
+  border-top-right-radius: 0;
+}
+
+#sidebar-tab > div {
+  background-color: rgb(229, 227, 228);
+  color: #445167;
+  display: none;
+}
+
+#sidebar-tab > div > .list-group-item.active{
+  background-color: white;
+  color: #445167;
+}
+
+#sidebar-tab > a {
+  background-color: #37657D;
+  color: inherit;
+}
+
+.list-group-item:last-child{
+    border-bottom-right-radius: inherit;
+    border-bottom-left-radius: inherit;
+}
+
+.list-group-item:first-child{
+    border-top-right-radius: inherit;
+    border-top-left-radius: inherit;
+}
+
+#sidebar-tab > a.active {
+    background-color: rgb(55, 101, 125);
+    color: inherit;
+}
+
+#sidebar-tab > a:hover{
+    background-color: rgba(55, 101, 125, 0.8);
+    color: inherit;
+}
+/* ----------------- */
+
+/* Navegador superior */
+/* #nav-tab {
+    display: none;
+} */
+
+/* Content */
+.table th {
+  color: #00C1A6;
+  background-color: rgb(237, 237, 239);
+}
+
+.table td {
+    background-color: white;
+    vertical-align: middle;
+}
+
+.table > thead > tr:not(:first-child) > th {
+  background-color: #8D8D8D;
+  color: white;
+}
+
+#list-home td:first-child {
+    cursor: pointer;
+
+}
+
+#list-info1 ul.list-inline > li:first-child {
+    background-color: #EDEDED;
+    padding: 1%;
+}
+#list-info1 .col-sm-4 > ul.list-inline > li:first-child {
+    max-width: 60%;
+    width: 60%;
+    padding: 3% 0;
+    text-align: center;
+}
+
+#list-ProdListConcesiones tr > td:nth-child(2) {
+    cursor: pointer;
+}
+
+#list-info1 > p {
+    margin-top: 3%;
+}
+
+#list-SeguDetalleConcesion td:first-child {
+    cursor: pointer;
+}
+
+/* Bottom content */
+.bottomContent {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bottomContent button{
+    margin-right: 1%;
+}
+
+.bottomContent button:last-child {
+  background-color: #818B8C;
+  border: 1px solid #818B8C;
+}
+
+/* Tabla Lista de Concesiones */
+.indiceTable td:nth-child(2), .indiceTable th:nth-child(2), #list-DetalleConcesion td:nth-child(2), #list-DetalleConcesion th:nth-child(2), #list-indInfo td:nth-child(2), #list-indInfo th:nth-child(2) {
+  text-align: center;
+}
+
+.listaConcesionesTable td:nth-child(6), .listaConcesionesTable th:nth-child(6) {
+  text-align: center;
+}
+
+.listaConcesionesTable td:nth-child(2), .listaConcesionesTable th:nth-child(2) {
+  white-space: nowrap;
+}
+
+#list-CarbProdObtForm > .bottomContent > button {
+    margin-right: 1%;
+    color: white;
+    border-radius: 5px;
+}
+
+#list-CarbProdObtForm > .bottomContent > button:first-child {
+    margin-right: 1%;
+    background-color: #FF4D51;
+}
+
+#list-CarbProdObtForm > .bottomContent > button:last-child {
+    margin-right: 1%;
+    background-color: #818B8C;
+}
+
+#list-CarbDestForm > .bottomContent {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1%;
+}
+
+#list-CarbDestForm > .bottomContent > button:first-child {
+    margin-right: 1%;
+}
+
+#list-CarbDestForm > .bottomContent > button:last-child {
+    background-color: #818B8C;
+}
+
+#list-NoMetaObtInfo td:last-child {
+    white-space: nowrap;
+}
+#list-NoMetaObtInfo td:last-child > button {
+    margin-right: 5%;
+}
+
+.tableMetales input {
+    border-radius: 5px;
+    display: flex;
+    flex-flow: wrap;
+}
+
+.dropright {
+    width: 100%;
+}
+
+.textInput {
+    max-width: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.contentTableTop th{
+  width: 30%;
+}
+
+.contentTableLeft th {
+    width: 30%;
+}
+
+.contentTableRight th:not(first-child), .contentTableRight td:not(first-child){
+    text-align: center;
+}
+
+.dropdown-toggle{
+    background-color: white;
+    color: black;
+    border: 1px solid #BFBFBF;
+    text-align: right;
+}
+
+.dropdown-toggle::after{
+    color: #B1AFB4;
+}
+
+#list-info1 .col-sm-4:first-child .dropdown-toggle {
+    width: 100%;
+    border: 0px;
+}
+
+#list-info1 .col-sm-4:first-child .dropdown-menu {
+    width: 100%;
+}
+
+#list-info4 th:nth-child(5), #list-info4 tr:nth-child(2) th:last-child, #list-info4 td:last-child  {
+    text-align: center;
+}
+
+.warning li {
+    display: flex;
+}
+
+.yellowBullet > li > span:first-child{
+    color: #FBC701;
+    font-weight: bold;
+    display: inline-block;
+    width: 1rem;
+    font-size: 1rem;
+    margin-right: 1%;
+    padding-top: 1%;
+}
+
+.yellowBullet {
+    list-style: none;
+    padding-left: 1rem;
+}
+
+.warning {
+    border: 1px solid #FBC701;
+    border-radius: 10px;
+    padding: 0 1%;
+    width: 100%;
+    margin: 1% 0;
+    display: flex;
+    align-items: center;
+}
+
+.modal {
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.modal-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-footer > button {
+    background-color: #FF4D51;
+    border-color: #FF4D51;
+}
+
+.modal-footer > button:first-child {
+    background-color: #00C0C1;
+    border-color: #00C0C1;
+}
+
+.modal-footer > button:nth-child(2):hover {
+    background-color: #FF4D51;
+    border-color: #FF4D51;
+    opacity: 1;
+}
+
+#nav-tab > a {
+    border: 0;
+    color: #495D68;
+    font-weight: bold;
+}
+
+#nav-tab > i{
+    padding-top: 0.8rem;
+    color: #01C2A7;
+}
+
+.topContent p {
+    color: red;
+}
+
+.topContent li::before {
+  content: "\2022";
+  color: #FFCA00;
+  font-weight: bold;
+  display: inline-block;
+  width: 1rem;
+  margin-right: 1%;
+}
+
+.CheckBox > input {
+    margin-left: 0.3rem;
+}
+
+.btn-primary {
+    background-color: #37657D;
+    color: white;
+    border-color: #37657D;
+    margin: 1rem;
+}
+
+.btn-primary:hover {
+    background-color: #37657D;
+    opacity: 0.8;
+}
+
+/* Index Tables */
+.nivel1 {
+    background-color: #F5F3F4;
+}
+
+.nivel2 {
+    background-color: #F9F9F9;
+}
+
+.nivel2 > td:first-child {
+    padding-left: 2%;
+}
+
+.nivel3 > td:first-child {
+    padding-left: 4%;
+}
+
+.tableMetalica > .nivel3 > td:first-child {
+    cursor: pointer;
+}
+
+.tableCarbonifera > .nivel2 > td:first-child {
+    cursor: pointer;
+}
+
+.tableCarbonifera > tr:not(:first-child):not(.show) {
+    display: none;
+}
+
+.tableNoMetalica > tr > td:first-child {
+    cursor: pointer;
+}
+
+.topContent > .buttons {
+    display: flex;
+}
+
+.topContent > .buttons > button:nth-child(n+1) {
+    height: fit-content;
+}
+
+.topContent > .buttons > button:nth-child(2) {
+    margin-left: auto;
+}
+
+#list-SeguRegInfo td:last-child {
+    white-space: nowrap;
+}
+
+#list-SeguRegInfo td:last-child > button {
+    margin-right: 5%;
+}
+
+.footer {
+    flex: 1 0 auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+.footer > button {
+    width: 10rem;
+    align-self: flex-end;
+    margin-bottom: -2%;
+    z-index: 1;
+    background-color: #00C2A7;
+    font-weight: bold;
+}
+
+.push {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.push button {
+    background-color: #00C2A7;
+    margin-left: 1%;
+    color: white;
+    font-weight: bold;
+    height: 3.5rem;
+}
+
+textarea {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Icons */
+.trash {
+  background-color: red;
+  border-color: red;
+}
+
+.fa-caret-left {
+    float: right;
+    color: #818B8D;
+    cursor: pointer;
+    font-size: 1.6rem;
+}
+
+.fa-check {
+  color: #5DAD26;
+  font-size: 2rem;
+}
+
+.fa-angle-left {
+    cursor: pointer;
+    color: white;
+    background-color: #3982A5;
+    padding: 0.75rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.fa-angle-left:hover {
+    opacity: 0.8;
+}
+
+.fa-question-circle {
+    margin-right: 5%;
+}
+
+@media only screen and (max-width: 1150px) {
+    .topContent {
+        margin-left: 0;
+    }
+}

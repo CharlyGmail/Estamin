@@ -1,0 +1,303 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section styles
+{
+    @Styles.Render("~/Assets/css/all.min.css")
+    @Styles.Render("~/Assets/css/content_index.css")
+}
+<div class="row" style="margin: 0 0;">
+    <div class="col-4" style="text-align: left;">
+        Selecciona Año:
+        <div class="dropdown">
+            <button class="dropbtn" onclick="showDropDown('dropdownMes')">2018 <i class="fas fa-caret-down"></i></button>
+            <div id="dropdownMes" class="dropdown-content">
+                <a href="#home">2017</a>
+                <a href="#about">2016</a>
+                <a href="#contact">2015</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button onclick="showDropDown('dropdownAnio')" class="dropbtn">Enero <i class="fas fa-caret-down"></i></button>
+            <div id="dropdownAnio" class="dropdown-content">
+                <a href="#home">Enero</a>
+                <a href="#home">Febrero</a>
+                <a href="#home">Marzo</a>
+                <a href="#home">Abril</a>
+                <a href="#home">Mayo</a>
+                <a href="#home">Junio</a>
+                <a href="#home">Julio</a>
+                <a href="#home">Agosto</a>
+                <a href="#home">Septiembre</a>
+                <a href="#home">Octubre</a>
+                <a href="#home">Noviembre</a>
+                <a href="#home">Diciembre</a>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-8 ci-line" style="display: flex; flex-direction: column;">
+        <div class="ci-line-bar" style="width: 100%; display: flex; flex-direction: row;">
+            <div style="width: 47.5%; height: 5px; background-color: red;"></div>
+            <div style="width: 52.5%; height: 5px; background-color: #EDEDED;"></div>
+        </div>
+        <div class="ci-line-number" style="width: 100%; margin-top: 5px; display: flex; flex-direction: row">
+            <div style="width: 5%;">
+                <p>1</p>
+            </div>
+            <div style="width: 5%;">
+                <p>2</p>
+            </div>
+            <div style="width: 5%;">
+                <p>3</p>
+            </div>
+            <div style="width: 5%;">
+                <p>4</p>
+            </div>
+            <div style="width: 5%;">
+                <p>5</p>
+            </div>
+            <div style="width: 5%;">
+                <p>6</p>
+            </div>
+            <div style="width: 5%;">
+                <p>7</p>
+            </div>
+            <div style="width: 5%;">
+                <p>8</p>
+            </div>
+            <div style="width: 5%;">
+                <p>9</p>
+            </div>
+            <div style="width: 5%;" class="ci-item-limit">
+                <p>10</p>
+            </div>
+            <div style="width: 40%;">
+                <p>.   .   .   .   .   .   .   .   .</p>
+            </div>
+            <div style="width: 5%;">
+                <p>30</p>
+            </div>
+            <div style="width: 5%;">
+                <p>31</p>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<div class="ci-table table-responsive">
+    <table class="table table-bordered table-striped table-sm">
+        <thead>
+            <tr>
+                <th rowspan="2">MES</th>
+                <th rowspan="2">ESTADO</th>
+                <th rowspan="2">OBSERVACIÓN</th>
+                <th rowspan="2">NOTIFICACIÓN</th>
+                <th rowspan="2">NÚMERO<br/>EXPEDIENTE</th>
+                <th rowspan="2">FECHA<br/>EXPEDIENTE</th>
+                <th rowspan="2">ULTIMA<br/>REACTIVACIÓN</th>
+                <th colspan="2" style="text-align: center;">Selecciona</th>
+            </tr>
+            <tr>
+                <th class="ci-center-item">Todo <input type="checkbox" onclick="selectAllCheck(1)"></th>
+                <th class="ci-center-item">Todo <input type="checkbox" onclick="selectAllCheck(0)"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="row-1">
+                <td class="ci-format-text-tr">Diciembre</td>
+                <td>
+                    <button class="btn btn-danger btn-sm" type="button">No enviado</button> <img class="ci-size-icon" src="@Url.Content("~")Assets/images/1.jpg" alt="icon" />
+                </td>
+                <td class="ci-left-item" style="font-weight: bold">Incompleto</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr id="row-2">
+                <td class="ci-format-text-tr">Noviembre</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold">Pendiente de revisión</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+            <tr id="row-3">
+                <td class="ci-format-text-tr">Octubre</td>
+                <td>
+                    <button class="btn btn-danger btn-sm" type="button">No enviado</button> <img class="ci-size-icon" src="@Url.Content("~")Assets/images/1.jpg" alt="icon" />
+                </td>
+                <td class="ci-left-item" style="font-weight: bold">Imcompleto</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr id="row-4">
+                <td class="ci-format-text-tr">Septiembre</td>
+                <td>
+                    <button class="btn btn-danger btn-sm" type="button">No enviado</button> <i class="fas fa-times ci-size-icon"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold">Con errores</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr id="row-5">
+                <td class="ci-format-text-tr">Agosto</td>
+                <td>
+                    <button class="btn btn-danger btn-sm" type="button">No enviado</button> <img class="ci-size-icon" src="@Url.Content("~")Assets/images/2.jpg" alt="icon"/>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold">Sin datos</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr id="row-6">
+                <td class="ci-format-text-tr">Julio</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold"></td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+            <tr id="row-7">
+                <td class="ci-format-text-tr">Junio</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold"></td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+            <tr id="row-8">
+                <td class="ci-format-text-tr">Mayo</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold"></td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+            <tr id="row-9">
+                <td class="ci-format-text-tr">Abril</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold"></td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+            <tr id="row-10">
+                <td class="ci-format-text-tr">Marzo</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold"></td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+            <tr id="row-11">
+                <td class="ci-format-text-tr">Febrero</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold"></td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+            <tr id="row-12">
+                <td class="ci-format-text-tr">Enero</td>
+                <td class="ci-format-sended">
+                    Enviado <i class="fas fa-check"></i>
+                </td>
+                <td class="ci-left-item" style="font-weight: bold"></td>
+                <td>
+                    <button class="btn btn-warning btn-sm" type="button">Pendiente</button>
+                </td>
+                <td class="ci-format-text-tr">2863854</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td class="ci-format-text-tr">17/01/2019</td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op1"></td>
+                <td><input onclick="btnActived(this)" type="checkbox" value="op2"></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr class="ci-btn-footer">
+                <td class="ci-td-without-border"><a class="btn btn-sm" style="background-color: #00C2A7; color: white; font-weight: 500;" href="#" role="button"><i class="fas fa-arrow-left"></i> Regresar</a></td>
+                <td class="ci-td-without-border" colspan="6"></td>
+                <td class="ci-td-without-border"><a class="btn btn-sm disabled" style="background-color: #36367D; color: white; font-weight: 500; margin: 0 5px;" href="#" role="button">Rectificar</a></td>
+                <td class="ci-td-without-border"><a class="btn btn-sm disabled" style="background-color: #36367D; color: white; font-weight: 500; margin: 0 5px;" href="#" role="button">Imprimir</a></td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+@section scripts
+{
+    @Scripts.Render("~/Scripts/index_content.js")
+}

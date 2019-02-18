@@ -1,0 +1,54 @@
+﻿<div class="tab-pane" id="list-SeguRegForm" role="tabpanel" aria-labelledby="list-SeguRegForm-list">
+    <div class="topContent">
+        <div class="warning">
+            <img src="@Url.Content("~")Assets/images/exclamation.jpg"/>
+            <ul class="yellowBullet">
+                <li>Indique los distritos de los que ha obtenido el RECURSO EXTRAÍDO antidad por producto puede ser mayor solamente si se tenía una cantidad en stock del periodo anterior.</li>
+                <li>La cantidad por producto puede ser mayor solamente si se tenía una cantidad en stock del periodo anterior</li>
+            </ul>
+        </div>
+    </div>﻿
+    <div class="content">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th>Tipo Cliente</th>
+                    <td class="d-flex justify-content-around"><div><input type="radio" name="tipoCliente" value="titular"> Titular</div> <div><input type="radio" name="tipoCliente" value="contratista"> Empresa Contratista Minera </div> <div><input type="radio" name="tipoCliente" value="conexa"> Empresa Conexa</div></td>
+                </tr>
+                <tr>
+                    <th>Nombre de la Compañía, Contratista Minero o Conexa</th>
+                    <td><input class="textInput" type="text" name="nombre" value=""></td>
+                </tr>
+                <tr>
+                    <th>Nro de Empleados</th>
+                    <td><input class="textInput" type="text" name="empleados" value=""></td>
+                </tr>
+                <tr>
+                    <th>Nro de Obreros</th>
+                    <td><input class="textInput" type="text" name="obreros" value=""></td>
+                </tr>
+                <tr>
+                    <th>Horas Hombre Trabajadas</th>
+                    <td><input class="textInput" type="text" name="horas" value=""></td>
+                </tr>
+                <tr>
+                    <th>Actividades Mineras<br>Art 2 Reglamento</th>
+                    <td>
+                        <div class="btn-group dropdown">
+                            <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                ---------------
+                            </button>
+                            <div class="dropdown-menu">
+                                <!-- Dropdown menu links -->
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="bottomContent">
+        <button type="button" class="btn" name="button">Grabar</button>
+        <button type="button" class="btn" name="button">Regresar</button>
+    </div>
+</div>﻿

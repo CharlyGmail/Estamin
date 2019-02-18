@@ -1,0 +1,19 @@
+﻿<div class="tab-pane" id="list-ProdDetalleConcesion" role="tabpanel" aria-labelledby="list-ProdDetalleConcesion-list">
+    <div class="content">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Índice</th>
+                    <th scope="col" style="text-align:center">Estado</th>
+                    <th scope="col">Observaciones</th>
+                    <th scope="col" style="text-align:center">Última Actualización</th>
+                </tr>
+            </thead>
+
+            @Html.Partial("~/Views/Home/Produccion/MineriaMetalica/Index.cshtml")
+            @Html.Partial("~/Views/Home/Produccion/MineriaNoMetalica/Index.cshtml")
+            @Html.Partial("~/Views/Home/Produccion/Carbonifera/Index.cshtml")
+           
+        </table>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+﻿@model Dictionary<int, string>
+<div class="content">
+    <table class="indiceTable table">
+        <thead>
+            <tr>
+                <th scope="col">Índice</th>
+                <th scope="col">Estado</th>
+                <th scope="col">Observaciones</th>
+                <th scope="col">Última Actua.</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Información del Titular</td>
+                <td><i class="fas fa-check"></i></td>
+                <td></td>
+                <td>08/01/2019</td>
+            </tr>
+            <tr>
+                <td>Anexo I: Produccción</td>
+                <td><img src="@Url.Content("~")Assets/images/exclamation.jpg"/></td>
+                <td>Pendiente de subsanación</td>
+                <td>08/01/2019</td>
+            </tr>
+            <tr>
+              <td>Anexo II: Seguridad</td>
+              <td><img src="@Url.Content("~")Assets/images/exclamation.jpg"/></td>
+              <td>Falta completar datos en el submenú</td>
+              <td>08/01/2019</td>
+            </tr>
+            <tr>
+                <td>Anexo III: Seguridad</td>
+                <td><img src="@Url.Content("~")Assets/images/exclamation.jpg"/></td>
+                <td>Falta completar datos en el submenú</td>
+                <td>08/01/2019</td>
+            </tr>
+            <tr>
+                <td>Anexo IV: Seguridad</td>
+                <td><img src="@Url.Content("~")Assets/images/exclamation.jpg"/></td>
+                <td>Falta completar datos en el submenú</td>
+                <td>08/01/2019</td>
+            </tr>
+            <tr>
+                <td>Anexo V: Seguridad</td>
+                <td><i class="fas fa-check"></i></td>
+                <td></td>
+                <td>08/01/2019</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="bottomContent">
+    <button class="btn" type="button" name="button">Imprimir reporte preliminar</button>
+    <button class="btn" type="button" name="button">Enviar al ministerio</button>
+</div>
